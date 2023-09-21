@@ -1,0 +1,668 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Fira+Sans:wght@600;700;800&family=Montserrat:wght@300&family=Noto+Sans+Duployan:wght@400;700&family=Noto+Sans+Soyombo&family=Nunito:wght@200&family=Permanent+Marker&family=Prompt:wght@400;700&family=Quicksand:wght@300;400;500;600;700&family=Ubuntu:ital@1&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
+   
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Prompt', sans-serif;
+   
+   
+   
+    
+      
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color:rgb(0, 0, 0);
+} 
+.contanier{
+    height: 100%;
+    width: 100%;
+ 
+}  
+.navbar{
+    justify-content: space-between;
+    display: flex;
+    background-color:rgb(22, 22, 22);
+    height: 65px;
+    align-items: center;
+   
+}
+.navbar .icons ul{
+    display: flex;
+    list-style: none;
+}
+.navbar .icons a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 0 14px;
+    font-size: 12px;
+   
+    
+    
+}
+.navbar .icons{
+   margin:0 100px 0 0;
+    
+}
+.navbar .icons i{
+    color:rgb(23, 198, 169);
+    margin-top: 12px;
+}
+.navbar .text{
+    margin: 0 0 0 100px;
+}
+.navbar .text h1{
+  font-weight:900;
+  
+  font-size: 40px;
+  color:rgb(23, 198, 169);
+ 
+}
+.navbar .text p{
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 6px;
+    letter-spacing: 3px;
+    transform: translate(17%,-150%);
+  
+}
+
+
+.contaner1{
+    
+    height: 400px;
+    overflow: hidden;
+    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.307) 30%,rgba(23, 198, 169, 0.386));
+}  
+.contaner1 img{
+    margin-left: 65%;
+    
+}
+.contaner1 .text1{
+    
+    height: 350px;
+    width: 500px;
+    transform: translate(0,-130%);
+    margin:0 100Px;
+}
+.text1 h1{
+    margin:5px 0 ;
+   
+}
+.text1 .blod{
+    
+    
+}
+
+   
+
+.contaner1 .text1 h1{
+    color: aliceblue;
+    font-size: 30px;
+    letter-spacing: 1px;
+   
+}
+.contaner1 .text1 span{
+    color:rgb(23, 198, 169);
+}
+.contaner1 .text1 p{
+    color:rgb(23, 198, 169);
+    font-size: 10px;
+    letter-spacing: 3px;
+   
+}
+
+hr{
+    width: 35px;
+    color:rgb(23, 198, 169);
+
+}
+.contaner1 .text1 .bold{
+    color: aliceblue;
+    letter-spacing: 0;
+    
+}
+.contaner1 .text1 .blod1{
+    color: aliceblue;
+    letter-spacing: 0;
+   
+}
+.contaner1 .text1 .pp1{
+    color: aliceblue;
+    letter-spacing: 0;
+    transform: translate(-40%);
+}
+.contaner1 .text1 .icon i{
+    color: aliceblue;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 0 6px;
+    color:white;
+    background-color: rgb(23, 198, 169);
+    box-shadow: 0 0 6px 0 rgb(130, 205, 193),1px 2px 5px 1px rgba(141, 197, 188, 0.898);
+    border-radius: 50%;
+    
+}
+.contaner1 .text1 .con{
+    display: flex;
+   
+}
+.contaner1 .text1 .pp2{
+    margin: 10px;
+    color: aliceblue;
+    
+}
+.contaner1 .text1 .pp3{
+    letter-spacing: 0;
+    margin: 0 9px;
+    transform: translate(-10%, 6%);
+}
+
+
+.sec1{
+    height: 300px;
+    
+    display: flex;
+    margin: 60px 100px;
+}
+.sec1 .text2{
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin: 30px 0;
+   
+
+}
+.sec1 .text2 .p2p{
+    font-size: 8PX;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color:rgb(23, 198, 169);
+    margin: 0 4px;
+    transform: translate(-40%, 6%);
+   
+}
+.sec1 .text2 h1{
+    color: aliceblue;
+    
+}  
+hr{
+  height: 0.5px;
+  border-radius: 10px;
+  background-color: rgb(18, 248, 210);
+}
+span{
+    color:rgb(23, 198, 169);
+}
+.sec1 .text2 p{
+    font-size: 12px;
+   color: azure;
+   margin:  5px 0;
+} 
+.sec1 .text2 a{
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;
+    background-color: rgb(36, 242, 208);
+    padding: 4px;
+    color: aliceblue;
+
+}
+
+    
+
+.sec1 .imag1 .imag2{
+    margin: 5px;
+    width: 200px;
+    height: 150px;
+    background-color: rgba(23, 198, 169, 0.066);
+}
+.sec1 .imag1 .imag2 img{
+    margin: 12px 0 0 65px;
+}
+.sec1 .imag1 .imag2 h3{
+    color: aliceblue;
+    font-size: 18px;
+   text-align: center;
+   letter-spacing: 1px;
+}
+.sec1 .imag1 .imag2 pre{
+    color: aliceblue;
+    font-size: 10px;
+    text-align: center;
+    margin:5px 0;
+    
+}
+.sec1 .imag1 .imag3{
+    margin: 5px;
+    width: 200px;
+    height: 150px;
+   background-image: linear-gradient(black 20%,rgba(36, 242, 208, 0.443));
+}
+.sec1 .imag1 .imag3 img{
+    margin: 12px 0 0 65px;
+}
+.sec1 .imag1 .imag3 h3{
+    color: aliceblue;
+    font-size: 18px;
+   text-align: center;
+   letter-spacing: 1px;
+}
+.sec1 .imag1 .imag3 pre{
+    color: aliceblue;
+    font-size: 10px;
+    text-align: center;
+    margin:5px 0;
+    
+}
+.flex1{
+    display: flex;
+}
+.sec1 .imag1 .imag4{
+    margin: 5px;
+    width: 200px;
+    height: 150px;
+   background-image: linear-gradient(black 20%,rgba(36, 242, 208, 0.443));
+}
+.sec1 .imag1 .imag4 img{
+    margin: 12px 0 0 65px;
+}
+.sec1 .imag1 .imag4 h3{
+    color: aliceblue;
+    font-size: 18px;
+   text-align: center;
+   letter-spacing: 1px;
+}
+.sec1 .imag1 .imag4 pre{
+    color: aliceblue;
+    font-size: 10px;
+    text-align: center;
+    margin:5px 0;
+}
+.sec1 .imag1 .imag5{
+    margin: 5px;
+    width: 200px;
+    height: 150px;
+    background-color: rgba(23, 198, 169, 0.066);
+}
+.sec1 .imag1 .imag5 img{
+    margin: 12px 0 0 65px;
+}
+.sec1 .imag1 .imag5 h3{
+    color: aliceblue;
+    font-size: 18px;
+   text-align: center;
+   letter-spacing: 1px;
+}
+.sec1 .imag1 .imag5 pre{
+    color: aliceblue;
+    font-size: 10px;
+    text-align: center;
+    margin:5px 0;
+    
+}
+.sec2{
+    height: 320px;
+     overflow: hidden;
+    display: flex;
+    background-color:rgba(128, 128, 128, 0.088);
+}
+.sec2 img{
+    margin:22px 0  0 90px ;
+}
+.sec2 .text3{
+    height: 290px;
+    margin: 25px 80px;
+    flex-wrap: wrap;
+}
+.sec2 .text3 h1{
+color: aliceblue;
+letter-spacing: 1px;
+font-size: 32px;
+}
+.sec2 .text3 .p2p{
+    color:rgb(23, 198, 169);
+    font-size: 11px;
+    letter-spacing: 3px;
+}
+.sec2 .text3 hr{
+    width: 60px;
+}
+.sec2 .text3 pre{
+     color: aliceblue;
+     font-size: 10px;
+     margin: 5px 0;
+}
+.sec2 .text3 .image{
+    width: 300px;
+    display: flex;
+}
+.sec2 .text3 .image .im1 h4{
+    color:white;
+    font-size:12px;
+    letter-spacing: 1px;
+
+}
+.sec2 .text3 .image .im1{
+    display: flex;
+    transform: translate(-33%);
+    height: 100px;
+   
+}
+.sec2 .text3 .image .im1 .pp{
+margin: 30px 0;
+}
+.sec2 .text3 .image .im2 h4{
+    color:white;
+}
+.sec2 .text3 .image .im2{
+    display: flex;
+    transform: translate(-55%);
+    height: 100px;
+   
+}
+.sec2 .text3 .image .im2 .pp{
+margin: 30px 0;
+}
+.sec3 {
+    
+    background-image: linear-gradient( to right ,rgba(0, 143, 119, 0.322)50%,rgba(0, 0, 0, 0.815)),  url(1.jpg);
+    background-size: cover;
+    background-position-y:center; 
+    background-repeat: no-repeat;
+    
+    
+   
+    
+    
+}
+.sec3 .dv1{
+    
+    width: 90px;
+   margin: 0 6%;
+   
+}
+.sec3 .cont{
+    display: flex;
+   justify-content: center;
+   height: 150px;
+   align-items: center;
+}
+.sec3 .dv1 p{
+    font-size:11px ;
+    color: aliceblue;
+}
+.sec3 .dv1 i{
+    color: aliceblue;
+    font-size: 11px;
+    transform: translate(-60%);
+    font-weight: 600;
+}
+.sec3 .dv1 img{
+    margin:0 14px;
+}
+.sec3 .cont .dv1 h1 {
+    text-align: center;
+}
+.sec3 .cont .dv1 p{
+    
+        text-align: center;
+    
+}
+.sec3 .dv1 h1{
+    color:rgb(23, 198, 169);
+}
+.sec4 {
+    overflow: hidden;
+    height: 500px;
+}
+.sec4 .cont2{
+  
+    height: 252px;
+   margin: 0 28px;
+   
+    
+}
+.sec4 .cont2 .dv2 .m3m{
+    color:rgb(23, 198, 169);
+    font-size: 10px;
+    letter-spacing: 2px;
+
+}
+.sec4 .cont2 .dv2 pre{
+    color: aliceblue;
+    font-size: 12px;
+    
+}
+.sec4 .cont2 .dv2 h1{
+    color: aliceblue;
+    letter-spacing: 1px;
+}
+.sec4 .cont2 .dv2 i{
+    color:rgb(23, 198, 169);
+    margin: 5px 0;
+}
+.sec4 .cont2 .dv2 .icn{
+    color: aliceblue;
+   margin: 0 0 0 8px;
+   font-size: 12px;
+}
+.sec4 .cont2 .dv2 .mm{
+    display: flex;
+
+
+}
+.sec4 .cont2 .text6 {
+    margin:50px 130px;
+    display: flex;
+    
+    
+}
+.sec4 .cont2 .text6 .im3{
+    margin: 0 10px;
+}
+.sec4 .cont2  .hamed{
+   margin:0 150px;
+  transform: translate(0,-25%);
+}
+.sec5{
+    
+    height: 130px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.804),rgba(23, 198, 169, 0.278)), url(side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
+
+.sec5 .cont3 a{
+ color: aqua;
+   margin: 0 7px;
+   
+}
+.sec6{
+    
+    height: 450px;
+}
+.contan{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+    align-items: center;
+}
+.sec6 .text4{
+    
+    height: 400px;
+}
+.sec6 .text4 P{
+    color:rgb(23, 198, 169);
+    font-size: 11PX;
+    letter-spacing: 2PX;
+}
+.sec6 .text4 h1{
+    color: aliceblue;
+}
+.sec6 .text4 i{
+    position: absolute;
+    font-size: 30px;
+    margin: 55px 100px;
+    color: aliceblue;
+  
+  
+    
+}
+.sec6 .text4 img{
+   position: absolute;
+}
+.sec6 .text5{
+    
+    height: 400px;
+   margin: 16px;
+}
+.sec6 .text5 pre{
+    color: aliceblue;
+     font-size: 11px;
+
+}
+.sec6 .text5 i{
+    color:rgb(23, 198, 169);
+    font-size: 14px;
+    margin: 5px 0;
+}
+.sec6 .text5 .moo {
+    color: aliceblue;
+    display: flex;
+}
+.sec6 .text5 p{
+    font-size: 15px;
+    margin: 0 8px;
+   
+}
+.sec6 .text5 img{
+    position: absolute;
+    z-index: -1;
+}
+.sec6 .text5 .ic i{
+color: aliceblue;
+font-size: 35px;
+margin: 55px 100px;
+}
+.sec7{
+   
+    height:170px;
+    overflow: hidden;
+    
+    background-image: url(Bg-1.jpg);
+    background-size: cover;
+    background-position-y: -210px;
+   
+  
+}
+.sec7 .tex{
+    text-align: center;
+    margin: 40px 0;
+}
+.sec7 .tex hr{
+    margin-left: 48%;
+    width: 50px;
+}
+.sec7 .tex h1{
+    color: aliceblue;
+}
+.sec7 .tex  p{
+    color:rgb(23, 198, 169);
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.sec7 .tex pre{
+    color: aliceblue;
+    font-size: 14px;
+}
+
+
+.sec8{
+    background-image: url(Bg-1.jpg); 
+    background-size: cover;
+    height: 500px;
+    
+}
+.sec8 .conte .first .mm{
+     height: 165px;
+     width: 350px;
+     background-color:rgba(22, 22, 22, 0.631);
+    margin-left: 10px;
+    margin-bottom: 12px;
+     display: flex;
+}
+.sec8 .conte .first h5{
+    color: aliceblue;
+    font-size: 18px;
+    letter-spacing: 1px;
+
+}
+.sec8 .conte .first p{
+    color:rgb(23, 198, 169);
+    font-size: 13px;
+}
+.sec8 .conte .first pre{
+    color: aliceblue;
+    font-size: 13px;
+}
+.sec8 .conte .first i{
+    color:rgb(23, 198, 169);
+    margin-left: 6%;
+}
+.sec8 .conte .first img{
+    position: relative;
+    bottom: 5%;
+}
+.sec8 .conte .first {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+.sec8 .conte .second .mm{
+    height: 165px;
+    width: 350px;
+  margin: 50px;
+    
+    display: flex;
+   
+}
+.sec8 .conte .second h5{
+   color: aliceblue;
+   font-size: 18px;
+   letter-spacing: 1px;
+
+}
+.sec8 .conte .second p{
+   color:rgb(23, 198, 169);
+   font-size: 13px;
+}
+.sec8 .conte .second pre{
+   color: aliceblue;
+   font-size: 13px;
+}
+.sec8 .conte .second i{
+   color:rgb(23, 198, 169);
+   margin-left: 6%;
+}
+.sec8 .conte .second img{
+   position: relative;
+   bottom: 5%;
+}
+.sec8 .conte .second {
+   display: flex;
+   justify-content: center;
+}
